@@ -1,0 +1,11 @@
+﻿{
+  "name": "Field of View Mod",
+  "description": "This mod allows you to change the Field of View on Camera Player, seeing more angle doesn't hurt right?",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/source-guilherme/friendly-barnacle",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1100",
+    "ValheimModding-Jotunn-2.1.1",
+    "ValheimModding-HookGenPatcher-0.0.2"
+  ]
+}
